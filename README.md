@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://x.com/ansh_pant" target="blank"><img
       src="https://img.shields.io/twitter/follow/ansh_pant?logo=twitter&style=for-the-badge" alt="ansh_pant" </p>
 
-    - 👀 I’m interested in Artificial Intelligence and Machine Learning.
+  - 👀 I’m interested in Artificial Intelligence and Machine Learning.
     - 🌱 I’m currently pursuing my B.Tech from PSIT, Kanpur.
 
     - 💞️ I’m looking to collaborate on different projects.
