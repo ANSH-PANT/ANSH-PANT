@@ -108,16 +108,17 @@
           src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
     </p>
 
-    <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=anshpant&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-        alt="anshpant" /></p>
+<p><img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSH-PANT&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+    alt="ANSH-PANT" /></p>
 
-    <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=anshpant&show_icons=true&locale=en&theme=tokyonight"
-        alt="anshpant" /></p>
+<p>&nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=ANSH-PANT&show_icons=true&locale=en&theme=tokyonight"
+    alt="ANSH-PANT" /></p>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshpant&&theme=tokyonight"
-        alt="anshpant" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANSH-PANT&&theme=tokyonight"
+    alt="ANSH-PANT" /></p>
+
 
     <!---
 ANSH-PANT/ANSH-PANT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
